@@ -8,3 +8,5 @@ player.on('timeupdate', onPlay);
 function onPlay(data) {
   console.log(data);
 }
+
+console.log('hello');
